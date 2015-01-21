@@ -1,0 +1,13 @@
+---
+name: web2py test
+description: don't use
+keywords: ''
+type: Default
+documentation: ''
+images:
+- name: titogarrido_web2py-nginx-uwsgi_latest
+  source: titogarrido/web2py-nginx-uwsgi:latest
+  type: Default
+- name: postgres
+  source: postgres:latest
+  type: Default
